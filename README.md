@@ -1,0 +1,2 @@
+# svVADER
+Swedish VADER resources
