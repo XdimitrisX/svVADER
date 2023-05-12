@@ -9,3 +9,5 @@ Hutto, C.J. & Gilbert, E.E. (2014). _VADER: A Parsimonious Rule-based Model for 
 
 For the Swedish VADER tramnslation, please cite: 
 Marcus Gustafsson. 2019. _Sentiment Analysis for Tweets in Swedish - Using a sentiment lexicon with syntactic rules._ Bachelor Degree: https://www.diva-portal.org/smash/get/diva2:1391359/FULLTEXT01.pdf and also https://pypi.org/project/vaderSentiment-swedish/
+
+Note: during the second half of 2023, these resources will be transferred to the Språkbanken Text 'Language resources' page, at: https://spraakbanken.gu.se/en/resources
