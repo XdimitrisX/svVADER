@@ -58065,6 +58065,6 @@ zoomtrötthet	neg	-2
 överväldigas	pos	2
 överväldigat	pos	2
 överväldigats	pos	2
-överväldiger	neg	-2n
+överväldiger	neg	-2
 övervärdering	neg	-1
 övervärdering	neg	-1
